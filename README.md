@@ -3,6 +3,7 @@
 **Senior Software Developer | Tech Lead | PHP | WordPress | JavaScript**
 
 📍 Brasil (Home Office)
+
 🔗 LinkedIn: [https://www.linkedin.com/in/mailsonmarques](https://www.linkedin.com/in/mailsonmarques)
 
 ---
