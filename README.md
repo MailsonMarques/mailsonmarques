@@ -2,7 +2,7 @@
 
 **Senior Software Developer | Tech Lead | PHP | WordPress | JavaScript**
 
-📍 São Paulo, Brasil
+📍 Brasil (Home Office)
 🔗 LinkedIn: [https://www.linkedin.com/in/mailsonmarques](https://www.linkedin.com/in/mailsonmarques)
 
 ---
@@ -12,6 +12,8 @@
 Sou desenvolvedor sênior e **Tech Lead** com mais de **15 anos de experiência**, atuando na interseção entre **engenharia de software, comunicação e liderança técnica**. Atualmente trabalho no **Grupo Abril**, liderando equipes e apoiando produtos digitais de grande escala.
 
 Minha trajetória começou em infraestrutura e suporte técnico, o que me deu uma **visão sistêmica completa**: do servidor ao código, do produto ao usuário final. Essa base fortaleceu minha capacidade de tomar decisões técnicas mais seguras, sustentáveis e alinhadas ao negócio.
+
+Atualmente trabalho em modelo **100% remoto (home office)**, o que fortaleceu minha comunicação, liderança técnica e colaboração com times multidisciplinares.
 
 Acredito que **liderança técnica não é apenas escrever código**, mas **comunicar bem, orientar pessoas e criar ambientes onde times evoluem**.
 
